@@ -56,42 +56,34 @@
 ---
 
 ### 📊 Energy Consumption Analysis (SQL)
-
-🔗 GitHub Repo: [https://github.com/Anjiembadi/Energy-Consumption-Analysis-Using-SQL](https://github.com/Anjiembadi/Energy-Consumption-Analysis-Using-SQL)
-
 - Analyzed global energy usage & CO₂ emissions  
 - Used advanced SQL (**joins, window functions, aggregations**)  
 - Generated insights on sustainability trends
 
-
+🔗 GitHub Repo: [https://github.com/Anjiembadi/Energy-Consumption-Analysis-Using-SQL](https://github.com/Anjiembadi/Energy-Consumption-Analysis-Using-SQL)
 
 
 ---
 
 ### 🎥 YouTube AI Summarizer (GenAI Project)
+- Built an app to summarize YouTube videos using AI  
+- Integrated **LLM + Streamlit**  
+- Automated content extraction & summarization
 
 🔗 GitHub Repo: [https://github.com/Anjiembadi/youtube-summarizer-genai](https://github.com/Anjiembadi/YouTube-Summarizer-GenAI)
 
 [![🚀 Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://youtube-summarizer-genai-anji-embadi.streamlit.app/)
 
-- Built an app to summarize YouTube videos using AI  
-- Integrated **LLM + Streamlit**  
-- Automated content extraction & summarization
-
-
 ---
 
 ### 🖼️ OpenCV Photo Editor App
-
-🔗 GitHub Repo: [https://github.com/Anjiembadi/youtube-summarizer-genai](https://github.com/Anjiembadi/Photo-Editor-OpenCV-Streamlit)
-
-[![🚀 Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://anji-opencv-photo-editor.streamlit.app/) 
-
 - Developed image processing app using OpenCV  
 - Features: resize, filters, transformations  
 - Deployed using Streamlit
 
+🔗 GitHub Repo: [https://github.com/Anjiembadi/youtube-summarizer-genai](https://github.com/Anjiembadi/Photo-Editor-OpenCV-Streamlit)
 
+[![🚀 Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://anji-opencv-photo-editor.streamlit.app/) 
  
 
 ---
