@@ -40,7 +40,8 @@
 
 ### 🌐 Deployment
 - Streamlit  
-- GitHub  
+- GitHub
+- HuggingFace 
 
 ---
 
