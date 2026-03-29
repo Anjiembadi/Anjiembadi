@@ -77,7 +77,7 @@
 - Features: resize, filters, transformations  
 - Deployed using Streamlit
 
-[![🚀 Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](🔗 Live Demo: https://anji-opencv-photo-editor.streamlit.app/) 
+[![🚀 Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://anji-opencv-photo-editor.streamlit.app/) 
  
 
 ---
