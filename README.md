@@ -6,7 +6,7 @@
 ## 🌟 About Me
 - 🎓 B.Tech Student passionate about **AI & Data Science**
 - 🤖 Building **Machine Learning & Generative AI Projects**
-- 📊 Skilled in **Python,EDA, SQL, Power BI, MAchine Learning, OpenCV, Streamlit**
+- 📊 Skilled in **Python,EDA, SQL, Power BI, Machine Learning, OpenCV, Streamlit**
 - 🔥 Focused on **real-world problem solving using data**
 - 📍 Based in India
 - 💼 Open to **Internships & AI/ML Roles**
