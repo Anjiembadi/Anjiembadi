@@ -67,15 +67,18 @@
 - Built an app to summarize YouTube videos using AI  
 - Integrated **LLM + Streamlit**  
 - Automated content extraction & summarization
-🔗 Live Demo: https://youtube-summarizer-genai-anji-embadi.streamlit.app/ 
+
+[![🚀 Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://youtube-summarizer-genai-anji-embadi.streamlit.app/)
 
 ---
 
 ### 🖼️ OpenCV Photo Editor App
 - Developed image processing app using OpenCV  
 - Features: resize, filters, transformations  
-- Deployed using Streamlit  
-🔗 Live Demo: https://anji-opencv-photo-editor.streamlit.app/ 
+- Deployed using Streamlit
+
+[![🚀 Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](🔗 Live Demo: https://anji-opencv-photo-editor.streamlit.app/) 
+ 
 
 ---
 
