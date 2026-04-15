@@ -43,6 +43,7 @@ B.Tech graduate in Computer Science and Design from St. Martin's Engineering Col
 - GitHub
 - VS Code
 - Power BI
+  
 ---
 
 ## Featured Projects
