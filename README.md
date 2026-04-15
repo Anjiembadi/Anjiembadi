@@ -120,6 +120,7 @@ B.Tech graduate in Computer Science and Design from St. Martin's Engineering Col
 - Built using **OpenCV, NumPy, Pillow, and Streamlit**
 
 🔗 Repo: https://github.com/Anjiembadi/Photo-Editor-OpenCV-Streamlit
+
 ---
 
 
